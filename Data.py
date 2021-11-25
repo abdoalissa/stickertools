@@ -14,25 +14,25 @@ You can use this bot to convert
 
 Send Multiple images or stickers and it will work the same
 
-By @StarkBots
+By @abdoalissa
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/abdoalissa")],
         [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")
+            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://abdoalissa")
         ],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/abdoalissa")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/abdoalissa")],
     ]
 
     # Help Message
@@ -44,7 +44,7 @@ You Really Need Help ?!?!?!?!
 
 Note : You can send any amount of images or stickers or both together at once and it will work with same speed and accuracy.
 
-More features in development. Keep track by joining @StarkBots.
+More features in development. Keep track by joining @abdolaissa.
     """
 
     # About Message
@@ -53,11 +53,11 @@ More features in development. Keep track by joining @StarkBots.
 
 Bot created by @StarkBots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StickerToolsBot)
+Source Code : [Click Here](https://github.com/abdoalissa/stickertools)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @abdoalissa
     """
